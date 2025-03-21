@@ -1,4 +1,4 @@
-# CrystalOS_Alpha
+# Crystal-OS (Alpha)
 This is a concept/demo release of CrystalOS Alpha Edition
 
 # Preview (2024. 04. 12.)
